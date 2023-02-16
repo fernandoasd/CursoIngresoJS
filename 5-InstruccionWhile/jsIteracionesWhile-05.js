@@ -8,5 +8,4 @@ function mostrar()
 
 
 
-	txtIdSexo.value=sexoIngresado;
 }//FIN DE LA FUNCIÓN
