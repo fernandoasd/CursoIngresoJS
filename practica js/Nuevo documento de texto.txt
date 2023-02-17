@@ -1,0 +1,2 @@
+ Crl+K+C comentar
+ Crl+K+C descomentar
